@@ -211,8 +211,8 @@ body {
 .icon_list li {
     display: inline-block;
     text-align: center;
-    width: 33.33333%;
-    margin-left: -3px;
+    width: 50%;
+    
 }
 
 .iconos-fotos{
